@@ -1,0 +1,12 @@
+type Link @model {
+  id: ID!
+  url: String!
+  description: String
+}
+
+type Gaggle @model {
+  id: ID!
+  name: String!
+  description: String
+  items: [Link]!
+}

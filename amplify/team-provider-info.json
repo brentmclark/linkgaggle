@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-linkgaggle-dev-220403-authRole",
+            "UnauthRoleArn": "arn:aws:iam::307239411342:role/amplify-linkgaggle-dev-220403-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::307239411342:role/amplify-linkgaggle-dev-220403-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-linkgaggle-dev-220403-deployment",
+            "UnauthRoleName": "amplify-linkgaggle-dev-220403-unauthRole",
+            "StackName": "amplify-linkgaggle-dev-220403",
+            "StackId": "arn:aws:cloudformation:us-east-1:307239411342:stack/amplify-linkgaggle-dev-220403/f619e7e0-075c-11ea-b332-0e715b49d7c1"
+        }
+    }
+}
